@@ -7,6 +7,10 @@ Project #1: Demonstrating use of the linux command line interface
 
 [File permissions in Linux.docx](https://github.com/user-attachments/files/25246724/File.permissions.in.Linux.docx)
 
+Project #2 Demonstrating use of SQL 
+
+[Apply filters to SQL queries (1).docx](https://github.com/user-attachments/files/25246820/Apply.filters.to.SQL.queries.1.docx)
+
 
 ## Header 2
 
