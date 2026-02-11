@@ -12,7 +12,8 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Header 1
 
-[File permissions in Linux.docx](https://github.com/user-attachments/files/25246669/File.permissions.in.Linux.docx)
+
+[File permissions in Linux.docx](https://github.com/user-attachments/files/25246724/File.permissions.in.Linux.docx)
 
 
 ## Header 2
