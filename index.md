@@ -11,6 +11,9 @@ Project #2 Demonstrating use of SQL
 
 [Apply filters to SQL queries (1).docx](https://github.com/user-attachments/files/25246820/Apply.filters.to.SQL.queries.1.docx)
 
+Project #3 Demonstrating Automation with Python
+
+[Algorithm for file updates in Python.docx](https://github.com/user-attachments/files/25247084/Algorithm.for.file.updates.in.Python.docx)
 
 ## Header 2
 
